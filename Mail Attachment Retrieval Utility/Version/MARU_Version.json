@@ -1,0 +1,19 @@
+﻿{
+    "Version":  "1.3.0",
+    "ReleasedDate":  "2026-03-11",
+    "ReleaseNotes":  "Expanded log to include From/To/CC -- added support for To and CC combined search",
+    "Files":  [
+                  {
+                      "Name":  "MARU.ps1",
+                      "Checksum":  "5F71B7D07A80A6C70BD072F3D89B85422F10FD7D02C1A92C5F432D7E515C32D3"
+                  },
+                  {
+                      "Name":  "MARU_UI.ps1",
+                      "Checksum":  "273FD5A668DE8244C091F59BF7D8DA7E4F089E810A7050F59DD53AA55DAB487C"
+                  },
+                  {
+                      "Name":  "MARU_Update.ps1",
+                      "Checksum":  "DFCE9678479E12020D756600729ADE28BB3B80C7E951973DD634B23F8CAEEDA4"
+                  }
+              ]
+}
